@@ -9,7 +9,7 @@ Build tool
 
 ## Verify Integrity
 
-### Linux/Mac
+### Linux
 ```terminal
 sha256sum fereader_installer.exe
 ```
